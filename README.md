@@ -15,3 +15,9 @@ O modificador protected dando acesso somente ao pai ou aos herdeiros da classe
 Revisão da lógica de conversão negociações
 Método estáticos
 Parâmetros opcionais
+  
+  
+Remoção de comentários do código compilado
+Ativação do strictNullChecks
+Como suprimir erros, quando fizer sentido, resultantes do strictNullChecks
+Benefícios do strictNullChecks no controle do fluxo da sua aplicação
